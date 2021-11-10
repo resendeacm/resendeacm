@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<a href="https://github.com/resendeacm/resendeacm/blame/main/hello_there.svg">
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
 		<img src="hello_there.svg" width="600" height="200" alt="Hello there!">
 	</a>
 	<br>
@@ -12,7 +12,7 @@
 
  #### Languages and Tools:
  
-<img src="https://cdn-user-icons.flaticon.com/57197/57197212/1636247944431.svg?token=exp=1636248845~hmac=372c19cde13fc6db68ba32681a7adb09" alt="C/C++" width="45px"> <img src="https://cdn-icons.flaticon.com/png/512/5815/premium/5815314.png?token=exp=1636248610~hmac=7124e2827516e03f8f47d55d924123b0" alt="Python" width="45px"> <img src="https://cdn-icons.flaticon.com/png/512/5815/premium/5815478.png?token=exp=1636248610~hmac=a0b24ca4ccf72616bcb3764eebcd14c6" alt="SQL" width="45px"> <img src="https://cdn-user-icons.flaticon.com/57197/57197212/1636246435049.svg?token=exp=1636247335~hmac=e367878102b2b7eb72155b4ae4f5fe17" alt="Git" width="45px"> <img src="https://cdn-icons.flaticon.com/png/128/1887/premium/1887044.png?token=exp=1636247562~hmac=53f914c7e9af78ee93ae239b9aec5460" alt="Blender" width="45px">
+<img src="https://github.com/resendeacm/resendeacm/blob/main/cpp.svg" alt="C/C++" width="45px"> <img src="https://github.com/resendeacm/resendeacm/blob/main/py.svg" alt="Python" width="45px"> <img src="https://github.com/resendeacm/resendeacm/blob/main/sql.svg" alt="SQL" width="45px"> <img src="https://github.com/resendeacm/resendeacm/blob/main/git.svg" alt="Git" width="45px"> <img src="https://github.com/resendeacm/resendeacm/blob/main/b3d.svg" alt="Blender" width="45px">
 
 <img alt="C/C++" src="https://img.shields.io/badge/programming-C/C++-lightgray"/> <img alt="Python" src="https://img.shields.io/badge/Python-blue"/> <img alt="Fortran 90/95" src="https://img.shields.io/badge/Fortran 90/95-red"/> <img alt="Bash" src="https://img.shields.io/badge/Bash-orange"/>  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-yellow"/>
 
